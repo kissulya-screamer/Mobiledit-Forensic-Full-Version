@@ -234,3 +234,6 @@ This repository serves as the official landing page for MOBILedit! Forensic. The
 - 💬 **[Community](https://softyne.com/about-us/)**
 ---
 **Get the most recent version of MOBILedit! Forensic today!**
+
+---
+**Last updated:** 2026-09-10 22:50:20 UTC

@@ -236,4 +236,4 @@ This repository serves as the official landing page for MOBILedit! Forensic. The
 **Get the most recent version of MOBILedit! Forensic today!**
 
 ---
-**Last updated:** 2026-09-12 18:50:24 UTC
+**Last updated:** 2026-09-12 21:04:34 UTC
